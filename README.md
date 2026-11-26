@@ -8,6 +8,7 @@ Repositório com as atividades, laboratórios e projetos desenvolvidos nas aulas
 |-------|----------|
 | `AULA_01/` | Fundamentos de JavaScript: variáveis, operadores, exercícios de fixação, Labs (cadastro de usuário, calculadora de operações, calculadora de média) e autoavaliação |
 | `AULA_02/` | Estruturas condicionais e manipulação do DOM: exercícios de fixação, Labs (verificador de idade, calculadora de média e situação) e autoavaliação |
+| `AULA_03/` | DOM, eventos e projeto integrador: calculadora de média (HTML, CSS e JS separados), registro de testes, evidências e respostas dos exercícios |
 | `ProjetosWeb/` | Página web sobre o Clube de Regatas do Flamengo (HTML) |
 
 Cada Lab contém o código-fonte (`index.html`, `script.js`, estilos) e imagens de evidência do funcionamento.
