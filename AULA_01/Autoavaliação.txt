@@ -1,0 +1,17 @@
+11. Autoavaliação:
+
+1. (C) JavaScript — O JavaScript define o comportamento da página (cálculos, validações e respostas aos cliques), enquanto o HTML cuida da estrutura e o CSS da aparência.
+
+2. (B) let — A declaração `let` permite que a variável receba outro valor posteriormente, ao contrário de `const` (que impede reatribuição).
+
+3. (C) String — Valores escritos entre aspas representam textos, que em JavaScript são do tipo `String`.
+
+4. (B) 1 — O operador `%` calcula o resto da divisão inteira; ao dividir 10 por 3, o quociente é 3 e o resto é 1.
+
+5. (C) === — O operador `===` realiza a igualdade estrita, verificando tanto o valor quanto o tipo de dado sem fazer conversões implícitas.
+
+6. (B) document.getElementById()** — Esse método busca e retorna o elemento HTML correspondente ao `id` informado.
+
+7. (C) && — O operador lógico `&&` representa **E** (`||` representa OU e `!` representa NÃO).
+
+8. (B) Number() — A função `Number()` converte entradas de texto numérico (como o `.value` de um `<input>`) em número para realizar cálculos.
