@@ -1,0 +1,7 @@
+10. Autoavaliação
+[x] Consigo localizar elementos HTML pelo ID.
+[ ] Sei obter e converter dados de um input.
+[ ] Sei executar código quando um botão é clicado.
+[x] Consigo escrever condições com if, else if e else.
+[x] Sei validar dados antes de calcular.
+[x] Consigo atualizar mensagens na página com textContent.
