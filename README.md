@@ -1,6 +1,6 @@
-# Faculdade
+# Desenvolvimento de Interfaces ADS Turma B
 
-Repositório com as atividades, laboratórios e projetos desenvolvidos nas aulas da faculdade (HTML, CSS e JavaScript).
+Repositório com as atividades, laboratórios e projetos desenvolvidos nas aulas de Desenvolvimento de Interfaces em ADS na Turma B (HTML, CSS e JavaScript).
 
 ## Estrutura
 
